@@ -1,0 +1,30 @@
+Participante,Trecho,Codificação,Categoria
+P11,O código contendo as coocorrências que fazem muitas chamadas de funções de outras classes,Chamadas execessivas de funções,Complexity of Methods and Functions
+P9,Códigos contendo Disperse Coupling por chamar vários métodos e por isso demanda muita cautela na sua remoção,Cuidado da refatoração,Refactoring Effort
+P11,pois uma manutenção nesse sistema seria bastante trabalhosa,Manutenção Trabalhosa,Refactoring Effort
+P11,identificar as partes sejam retiradas do método para melhorar sua identificação sem mexer em sua funcionalidade,Identificação de trechos do código,Difficulty in Understanding the Source Code
+P4,é mais difícil de entender códigos contendo coocorrências,Entendimento do código,Difficulty in Understanding the Source Code
+P2,as coocorrências contribuem bastante para o acoplamento tornado trabalhosa a refatoração,Acoplamento e refatoração mais difícil,Refactoring Effort
+P4,um método realizando o trabalho de outro,Método mal planejado,Complexity of Methods and Functions
+P5,as coocorrências deixam mais complicado entender o que está acontecendo no código a classe que tem o God class dá muito trabalho e tem que refatorar pra diminuir o tamanho,Coocorrências prejudicando a legibilidade,Difficulty in Understanding the Source Code
+P3,excesso de métodos chamados na camada de controller,Código execessivo,Large Amount of Source Code 
+P6,as coocorrências são difíceis pela quantidade de vezes que elas aparecem ,Quantidade de coocorrências,Large Amount of Source Code 
+P11,"Na issue #32 as coocorrências fazem utilização de vários métodos e funções de outras classes, já na issue #5 elas deixam o método complexo",Coocorrências e complexidade de métodos,Complexity of Methods and Functions
+P8,as coocorrências afetam a legibilidade tanto da classe quanto do método afetado,Falta de legibilidade,Difficulty in Understanding the Source Code
+P8,Afeta o entendimento do código e portanto a legibilidade do código da classe ,Compreensão do código de uma classe,Difficulty in Understanding the Source Code
+P1,é muito difícil de remover essas anomalias,DIficuldade de refatoração,Refactoring Effort
+P5,o código fica muito grande com dois smells coocorrendo,Coocorrência de smells,Large Amount of Source Code 
+P13,dificuldade da remoção dessas coocorrências em um projeto em andamento ou em produção,Remoção em projeto em produção,Refactoring Effort
+P14,impacto negativo em manutenções do código,Previsão de dificuldade na manutenção,Refactoring Effort
+P12,impacto no mapeamento das classes para realizar as refatorações,Mapeamento das classes,Refactoring Effort
+P12,rastreabilidade do código,Entendimento do código,Difficulty in Understanding the Source Code
+P9,as coocorrências realmente deixam o código muito grande e desorganizado,Código mal organizado,Large Amount of Source Code 
+P5,coocorrências deixam os métodos e classes bem complexas deixando difícil de entender,Complexidade de classes e métodos,Difficulty in Understanding the Source Code
+P10,coocorrências realmente dificultam a manutenção do código	,Dificuldade de Manutenção,Refactoring Effort
+P11,Essas coocorrências são mais prejudiciais por conta que muitas pessoas não são acostumadas a refatorá-las e removê-las principalmente as que tem Disperse Coupling,Remoção difícil por falta de conhecimento,Refactoring Effort
+P8,porque afeta a legibilidade pois algum code smell junto com Long Method é complicado de analisar,Smell junto com Long Method,Difficulty in Understanding the Source Code
+P7,as coocorrências estavam deixando a classe sem sentido e desorganizada pois tinha métodos que não pertenciam a determinada classe,Entendimento da classe,Difficulty in Understanding the Source Code
+P9,o acoplamento provocado pelo Disperse Coupling deixa difícil fazer mudança ou manutenção,Acoplamento e refatoração,Refactoring Effort
+P1,eu tenho dificuldade na remoção de coocorrências e verificar se a solução que eu dei foi adequada e de fato solucionou o smell,Dificuldade de remoção,Difficulty in Understanding the Source Code
+P6,algumas vezes foi difícil entender onde a anomalia estava afetando,Identificação do smell,Difficulty in Understanding the Source Code
+P8,eu tive dificuldade no que fazer para refatorar a anomalia e e qual operação de refatoração utilizar em cada situação,Insegurança na refatoração,Difficulty in Understanding the Source Code

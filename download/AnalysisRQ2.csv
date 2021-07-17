@@ -1,0 +1,15 @@
+Participante,Trecho,Coocorrência
+P11,Feature Envy e God Class são o tipo de coocorrência mais prejudiciais e a God Class é a mais prejudicial devido sua dificuldade refatoração,Feature Envy--God Class
+P1,Feature Envy e God Class ,Feature Envy--God Class
+P5,Feature Envy e God Class,Feature Envy--God Class
+P13,Na issue que estou tabalhando que é Feature Envy e God Class,Feature Envy--God Class
+P6,São Feature Envy e God Class,Feature Envy--God Class
+P12,Feature Envy e God Class,Feature Envy--God Class
+P3,Disperse Coupling e God Class,Disperse Coupling--God Class
+P8,Disperse Coupling e God Class,Disperse Coupling--God Class
+P14,Disperse Coupling e God Class,Disperse Coupling--God Class
+P9,Disperse Coupling e God Class pois as duas são prejudiciais,Disperse Coupling--God Class
+P7,Disperse Coupling e God Class na minha opinião,Disperse Coupling--God Class
+P2,God Class e Long Method porque God Class dá muito trabalho refatorar,God Class--Long Method
+P10,God Class e Long Method,God Class--Long Method
+P4,God Class e Long Method,God Class--Long Method
